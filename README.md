@@ -1,4 +1,3 @@
-# Books App: Login Page & Books API usage - PLEASE DO NOT COPY OR CHANGE THIS CODE
 - A React JS project.
 
 ## What does this app do?
