@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Books-App/static/css/main.58a2322c.chunk.css",
+    "main.js": "/Books-App/static/js/main.29678f2b.chunk.js",
+    "main.js.map": "/Books-App/static/js/main.29678f2b.chunk.js.map",
+    "runtime-main.js": "/Books-App/static/js/runtime-main.008624f6.js",
+    "runtime-main.js.map": "/Books-App/static/js/runtime-main.008624f6.js.map",
+    "static/css/2.818011ed.chunk.css": "/Books-App/static/css/2.818011ed.chunk.css",
+    "static/js/2.da1e478d.chunk.js": "/Books-App/static/js/2.da1e478d.chunk.js",
+    "static/js/2.da1e478d.chunk.js.map": "/Books-App/static/js/2.da1e478d.chunk.js.map",
+    "static/js/3.fe214324.chunk.js": "/Books-App/static/js/3.fe214324.chunk.js",
+    "static/js/3.fe214324.chunk.js.map": "/Books-App/static/js/3.fe214324.chunk.js.map",
+    "index.html": "/Books-App/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/Books-App/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.58a2322c.chunk.css.map": "/Books-App/static/css/main.58a2322c.chunk.css.map",
+    "static/js/2.da1e478d.chunk.js.LICENSE.txt": "/Books-App/static/js/2.da1e478d.chunk.js.LICENSE.txt",
+    "static/media/books-logo2.b74def0c.jpg": "/Books-App/static/media/books-logo2.b74def0c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.008624f6.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.da1e478d.chunk.js",
+    "static/css/main.58a2322c.chunk.css",
+    "static/js/main.29678f2b.chunk.js"
+  ]
+}
